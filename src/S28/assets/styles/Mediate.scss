@@ -1,0 +1,33 @@
+#MedMigration {
+
+  #cancel_btn {
+    width: 100px;
+    background: #fff;
+    color: black;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(112, 110, 110);
+  }
+
+  #Argee_btn {
+    width: 100px;
+    font-size: medium;
+    background: #09a34e;
+    color: rgb(246, 239, 239);
+  }
+
+  .MuiDialogContentText-root,
+  .MuiDialogTitle-root {
+    color: #333436 !important;
+    font-weight: 450 !important;
+  }
+
+  .css-zw3mfo-MuiModal-root-MuiDialog-root {
+    position: fixed !important;
+    z-index: 1300 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    top: -400px !important;
+    left: 0 !important;
+  }
+}

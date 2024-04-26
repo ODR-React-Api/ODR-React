@@ -1,0 +1,133 @@
+/* 弹出画面样式 */
+.popup3 {
+    position: fixed; /* 设置固定位置 */
+    top: 50%; /* 居中显示 */
+    left: 50%;
+    transform: translate(-50%, -50%); /* 水平、垂直居中 */
+    width: 400px;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* 头部 */
+.head_34_1 {
+    margin-bottom:0px;
+}
+
+/* 头部2 */
+.head_34_2 {
+    margin-top:5px;
+
+}
+
+/* 取消按钮 */
+.cancelButton2 {
+    margin-right:5px;
+}
+
+/* 提出按钮 */
+.limitsButton2 {
+    margin-right:10px;
+    background-color: #10aa50;
+    border: 2px solid grey;
+    color: #f1f5f3;
+}
+
+#Argee_btn {
+    width: 100px;
+    font-size: medium;
+    /* background: #09a34e; */
+    color: rgb(246, 239, 239);
+    margin-right:10px;
+    background-color: #10aa50;
+    color: #f1f5f3;
+    float: right;
+  }
+
+#cancel_btn {
+    width: 100px;
+    background: #fff;
+    color: black;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(112, 110, 110);
+    float: right;
+  }
+
+
+
+
+
+
+/* 必须 */
+.mustLabel2 {
+    display: inline-block;
+    width: 35px;
+    height: 18px;
+    background-color: rgba(169, 209, 47, 0.897);
+    font-size: 12px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+    }
+
+/* 任意 */
+.mustLabel {
+    display: inline-block;
+    width: 35px;
+    height: 18px;
+    background-color: rgba(190, 192, 184, 0.897);
+    font-size: 12px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+    }
+
+/* 理由 */
+.reason {
+    margin-bottom:8px;
+    }
+
+    
+
+/* 文本框边框 */
+.textBoxBorder {
+    border: 1px solid #0a0a0a;
+    }
+
+/* 添附文件文字 */
+.addFileCharacters {
+    display:inline;
+    }
+
+/* 添附文件模块 */
+.addFileModule {
+    display:inline;
+    display:inline-block;
+    text-align: left;
+    }
+
+/* 添附文件 */
+.file {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color:rgb(234, 235, 233);
+    }
+
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 0 !important;
+}
+
+.a-style{
+    color: blue;
+}
+
+#popups3 button:disabled{
+    background-color: grey;
+}
+

@@ -1,0 +1,69 @@
+/* header部式样 */
+.headerDiv{
+    background-color:lightblue;
+    text-align: left;
+    height: 60px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+/* title部式样 */
+.titleDiv{
+    text-align:left;
+    height: 60px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+/* context部式样（只有一个） */
+.contentSinleDiv{
+    height: 500px;
+    text-align: left;
+    overflow: auto;
+    margin: 20px;
+    border:1px solid #ccc;
+    padding: 20px;
+}
+/* context部式样（两个） */
+.contentDoubleDiv{
+    height: 200px;
+    text-align: left;
+    overflow: auto;
+    margin: 20px;
+    border:1px solid #ccc;
+    padding: 20px;
+}
+
+.PoliciesConfirm{
+    width: 1200px;
+    margin: auto;
+}
+
+#backBtn{
+    width: 120px;
+}
+
+#nextBtnOfTerms {
+    margin-left: 30px;
+    width: 200px;
+}
+
+#nextBtnOfPolicy {
+    margin-left: 30px;
+    width: 200px;
+}
+
+/*checkbox式样重写 */
+#checkboxDiv .css-j204z7-MuiFormControlLabel-root{
+    display: block !important;
+    height: 50px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+#linkOfDownload{
+    text-decoration: none;
+}
+
+#linkOfDownload:visited {
+    color: blue;
+    text-decoration: none;
+  }

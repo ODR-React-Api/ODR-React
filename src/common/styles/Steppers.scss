@@ -1,0 +1,79 @@
+// S04_申立て概要画面 stepIconsArea
+#stepIconsDiv{
+  // step区域
+  .stepIconDivStyle {
+    width: 34px;
+    height: 34px;
+  }
+  // step共通样式
+  .iconsDivStyle {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+  }
+  // 当前step下的背景色
+  .iconsDivTrue {
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+  }
+  // icon边框样式
+  // 申立人
+  .iconsBorder1 {
+    border: 2px solid #2e7d32;
+  }
+  // 相手方
+  .iconsBorder2 {
+    border: 2px solid #1976d2;
+  }
+  // 调停人
+  .iconsBorder3 {
+    border: 2px solid #ed6c02;
+  }
+  // icon图标共通样式
+  .iconsStyle {
+    font-size: 20px !important;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5px 5px 5px;
+  }
+  // 线条区域
+  .stepLineDivStyle {
+    width: 25px;
+    height: 34px;
+  }
+  // 实线共通样式
+  .solidLine {
+    height: 17px;
+  }
+  // 实线下边框样式
+  // 申立人
+  .solidLineBorder1 {
+    border-bottom: 2px solid #2e7d32;
+  }
+  // 相手方
+  .solidLineBorder2 {
+    border-bottom: 2px solid #1976d2;
+  }
+  // 调停人
+  .solidLineBorder3 {
+    border-bottom: 2px solid #ed6c02;
+  }
+  // 虚线共通样式
+  .dashedLine {
+    height: 17px;
+  }
+  // 虚线下边框样式
+  // 申立人
+  .dashedLineBorder1 {
+    border-bottom: 2px dashed #2e7d32;
+  }
+  // 相手方
+  .dashedLineBorder2 {
+    border-bottom: 2px dashed #1976d2;
+  }
+  // 调停人
+  .dashedLineBorder3 {
+    border-bottom: 2px dashed #ed6c02;
+  }
+}
+

@@ -1,0 +1,106 @@
+#C02 {
+    .title {
+        text-align: left;
+        margin-left: 20%;
+        margin-bottom: 0;
+    }
+    .projectStyle {
+        text-align: right;
+    }
+    .trStyle{
+        height: 40px;
+        margin-bottom: 0px;
+    }
+    .tableStyle{
+        width: 100%;
+        table-layout: initial;
+    }
+
+    .textBoxStyle {
+        text-align: left;
+    }
+    .projectName {
+        font-size: 15px;
+    }
+    .mustLabel {
+        display: inline-block;
+        width: 35px;
+        height: 20px;
+        background-color: rgba(208, 241, 18, 0.897);
+        font-size: 13px;
+        text-align: center;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    .arbitrarilyLabel {
+        display: inline-block;
+        width: 35px;
+        height: 20px;
+        background-color: rgba(216, 218, 213, 0.897);
+        font-size: 13px;
+        text-align: center;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    .userName {
+        height: 25px;
+        margin-left: 5px;
+    }
+    .company {
+        width: 350px;
+        height: 25px;
+        margin-left: 5px;
+    }
+    .email {
+        width: 200px;
+        height: 25px;
+        margin-left: 5px;
+        background-color:rgb(211, 209, 209);
+    }
+    .password {
+        width: 200px;
+        height: 25px;
+        margin-left: 5px;
+    }
+
+    .buttonStyle{
+        margin-top: 15px;
+        text-align: left;
+        margin-left: 33%;
+        .cancelButton {
+            background-color: white;
+            width: 100px;
+            height: 30px;
+            border-width: 1px;
+            border-color: black;
+            margin-left: 0%;
+    
+        }
+        .button {
+            margin-left: 10px;
+            background-color: rgb(4, 133, 4);
+            color: white;
+            border: none;
+            width: 120px;
+            height: 30px;
+        }
+    }
+
+    .errorStyle{
+        color: red;
+        font-size: 14px;
+        display: inline-block;
+        width: 180px;
+        margin-left: 5px;
+    }
+    .concent {
+        margin-left: 20%;
+        background-color:rgb(190, 218, 243);
+        color:rgb(11, 83, 83);
+        width: 650px;
+        font-size: 20px;
+        font-weight: bold;
+        height: 70px;
+        padding-top: 10px;
+    }
+}

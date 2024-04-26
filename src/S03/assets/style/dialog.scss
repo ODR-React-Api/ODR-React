@@ -1,0 +1,121 @@
+#MosListDialog {
+  .MuiDialog-paper {
+    width: 600px !important;
+    max-width: 800px;
+  }
+
+  .MuiTextField-root {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 !important;
+  }
+
+  .display-flex {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .MuiOutlinedInput-input {
+    padding: 3px !important;
+  }
+
+  .MuiOutlinedInput-root {
+    width: 300px !important;
+  }
+
+  .MuiStack-root {
+    overflow: hidden !important;
+  }
+
+  .css-jgls56-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+    border: 0px solid rgba(0, 0, 0, 0.6) !important;
+  }
+
+  .width-100 {
+    width: 100% !important;
+  }
+
+  .S03-title {
+    width: 20% !important;
+    padding-right: 20px !important;
+    margin-left: 0;
+    margin-bottom: 20px;
+  }
+
+  .data-div {
+    width: 145px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgba(0, 0, 0, 0.23);
+    border-radius: 4px !important;
+    height: 27px !important;
+    margin: 0;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .data-input {
+    width: 75% !important;
+    height: 23px !important;
+    border-width: 0 !important;
+    outline: none !important;
+  }
+
+  .data-error {
+    font-size: 12px !important;
+    margin-left: 5px !important;
+    color: red !important;
+  }
+
+  .data-div:focus-within {
+    border-color: #1972d2 !important;
+    border-width: 2px !important;
+  }
+
+  .padding-margin-0 {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .MuiCheckbox-sizeMedium {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .MuiRadio-root {
+    padding: 0 !important;
+    margin-left: 10px !important;
+    margin-bottom: 2px !important;
+  }
+
+  .text-align-right {
+    text-align: right !important;
+  }
+
+  .css-dmmspl-MuiFormGroup-root {
+    display: flex !important;
+    height: auto;
+  }
+
+  .detailedSearch-disabled{
+    height: 35px;
+    border: 1px solid rgba(25, 118, 210, 0);
+    color: rgba(0, 0, 0, 0.26);
+    background: rgba(0, 0, 0, 0.12);
+  }
+
+  .detailedSearch{
+    height: 35px;
+    border: 1px solid rgba(25, 118, 210, 0);
+    color: #fff;
+    background: #2e7d32;
+  }
+
+  .handleCloseDialog{
+    height: 35px;
+    color: #1976d2;
+    border: 1px solid rgba(25, 118, 210, 0.5);
+  }
+}

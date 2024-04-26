@@ -1,0 +1,78 @@
+#CouAnswerLogin{
+    /* 画面显示居中 */
+    .borderStyle{
+        width: 70%;
+        margin: auto;
+        text-align: left !important;
+    }
+    /* 审立案件div */
+    .labelStyle{
+        border: 1px double;
+        /* 申立案件块样式 */
+        .tabStyle{
+            margin-left: 50px ;
+            text-align: left;
+        }
+    }
+    /* 按钮居右显示 */
+    .butStyle{
+        float: right;
+    }
+    /* 申立案件 */ 
+    .caseStyle{
+        margin-left: 10px;
+        margin-right: 10px;
+        /* text-align: left !important; */
+    }
+    /* 字体样式 */
+    .textStyle{
+        font-weight: bold;
+        float: left;
+    }
+    /* 必须框 */
+    .mastStyle{
+        background-color:rgb(182, 235, 112);
+        margin-right: 10px;
+    }
+    /* 文本输入框 */
+    .textareaStyle{
+        width: calc(100% - 228px);
+        height: 150px;
+        float:right;
+        vertical-align: top;
+    }
+    // message文本框
+    .errorMsgArea {
+        padding-left: 222px;
+    }
+    /* 任意框 */
+    .arbStyle{
+        background-color:rgba(192, 185,185,0.966);
+        margin-right: 10px;
+    }
+    .butsStyle{
+        margin-left: 40%;
+        float:left;
+        width:auto;
+    }
+    /* S15中的文本表示框 */
+    .S15labelStyle{
+        height: 50px;
+        background-color: rgb(170, 234, 245);
+    }
+    .PdfStyle{
+        color: red;
+    }
+    .contentFontStyle{
+        padding-right: 50px;
+    }
+    .titleFont{
+        padding-right: 50px;
+        font-weight: bold;
+    }
+    /* 添付资料模块样式 */
+    .fileStyle{
+        margin-left: 105px;
+        margin-right: 10px;
+    }
+}

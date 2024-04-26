@@ -1,0 +1,171 @@
+.Must-header-checkBox {
+  background-color: #8dd10f;
+  font-size: 13px;
+  margin-left: 5px;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+.must-answer {
+  background-color: #8dd10f;
+  font-size: 13px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.must-answer-div {
+  float: left;
+  margin-left: 6px; 
+}
+
+.sonotaNyShow {
+  display:'';
+  margin-left: 100px;
+  margin-bottom: 10px;
+}
+
+.counterclaimShow {
+  display:'';
+}
+
+.mustShow {
+  display:'';
+  color: red;
+  margin-left: 120px;
+}
+
+.sonotaNyUnShow {
+  display:none;
+}
+
+.must-link-siryo {
+  background-color: #a1a5a8;
+  font-size: 13px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.must-link-div {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 12px!important; 
+}
+
+.answer-jyouho-label {
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.answerTypeCheckBox {
+  margin-left: 125px!important;
+}
+
+.Tble-tr {
+  line-height: 3;
+}
+
+.Tbl-td {
+  text-align: right;
+}
+
+.Tble-td {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.checkBox {
+  margin-left: 110px;
+}
+
+.Div-checkBox {
+  margin-left: 6%;
+}
+
+.errors {
+  color: red;
+  font-size: 14;
+}
+
+.input-answer {
+  width: 400px;
+  height: 50px!important;
+  resize: none!important;
+}
+
+.must-choose {
+  width: 400px;
+  height: 50px!important;
+  resize: none!important;
+  margin-left: 22px;
+}
+
+.divJyouho {
+  margin-left: 140px!important;
+}
+
+.dialog {
+  margin-left: 120px!important;
+}
+
+.counterclaimDiv {
+  float: left;
+}
+
+.formHelperText-div {
+  margin-left: 7.5%;
+
+}
+
+.answer-jyouho-title {
+  text-align: right;
+}
+
+.answer-jyouho-td {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.tr {
+  line-height: 3;
+}
+
+.answer-jyouho-div {
+  margin-left: 80px;
+}
+
+.agentemail-input {
+  width: 15%;
+  height: 0%;
+}
+
+.agentemail-link {
+  margin-left: 160px;
+}
+
+.btn-answer {
+  width: 120px!important;
+  margin-right: 10px!important;
+  margin-bottom: 20px!important;
+}
+
+.btn-div {
+  margin-left: 100px;
+  margin-top: 30px;
+  height: 20px;
+  width: 410px;
+  float: 'left';
+
+}
+
+.file-answer {
+  margin-left: 120px;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}

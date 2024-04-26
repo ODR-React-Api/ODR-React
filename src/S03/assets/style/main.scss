@@ -1,0 +1,124 @@
+#s03 {
+  .main {
+    margin-top: 30px;
+    font-weight: bold;
+  }
+
+  .main-width {
+    margin: 0 20px;
+    width: auto !important;
+    box-shadow: none !important;
+  }
+
+  .width-10 {
+    width: 10%;
+  }
+
+  .width-11 {
+    width: 11%;
+  }
+
+  .width-13 {
+    width: 13%;
+  }
+
+  .width-30 {
+    width: 30%;
+  }
+
+  .width-8 {
+    width: 8%;
+  }
+
+  .MuiTableSortLabel-icon {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 16px !important;
+  }
+
+  .span-line-height-23 {
+    line-height: 23px;
+  }
+
+  .red-dot {
+    font-size: 25px;
+    color: red;
+  }
+
+  .email-center-blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00aaff;
+  }
+
+  .event-state {
+    height: 25px;
+    width: 100px;
+    margin: auto;
+  }
+
+  .state-number0 {
+    background: #B2EBF2;
+    color: #006064;
+  }
+
+  .state-number1,
+  .state-number4,
+  .state-number99 {
+    background: #BDBDBD;
+    color: #212121;
+  }
+
+  .state-number2 {
+    background: #E0F7FA;
+    color: #006064;
+  }
+
+  .state-number3 {
+    background: #F0F4C3;
+    color: #827717;
+  }
+
+  .state-number5,
+  .state-number10,
+  .state-number11 {
+    background: #C8E6C9;
+    color: #1B5E20;
+  }
+
+  .state-number6 {
+    background: #FFF3E0;
+    color: #E65100;
+  }
+
+  .state-number7 {
+    background: #FFE0B2;
+    color: #E65100;
+  }
+
+  .state-number8 {
+    background: #FFEBEE;
+    color: #B71C1C;
+  }
+
+  .state-number9 {
+    background: #FFCDD2;
+    color: #B71C1C;
+  }
+
+  .state-number12 {
+    background: #CFD8DC;
+    color: #263238;
+  }
+
+  .cid {
+    color: #00aaff !important;
+    text-decoration: underline;
+  }
+
+  .css-rorn0c-MuiTableContainer-root{
+    width: 100%;
+    overflow-x: visible;
+  }
+}

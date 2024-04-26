@@ -1,0 +1,98 @@
+#MedDateExtension {
+
+  .css-13o7eu2 {
+    display: flex;
+    justify-content: center;
+    height: 110px;
+    width: 354px;
+    align-items: center;
+  }
+
+  #content1 {
+    text-align: left;
+    // padding-left: 300px;
+    // padding: 9px;
+    // width: 130px;
+  }
+
+  #content2 {
+    text-align: -webkit-left;
+    margin-left: 55px
+    // padding-left: 300px;
+    // padding-left: 0px;
+    // padding-top: 10px;
+    // width: 200px;
+  }
+
+  // .MuiStack-root {
+  //   overflow: hidden !important;
+  // }
+
+  // .MuiDialogContentText-root {
+  //   color: #333436 !important;
+  //   font-weight: 550 !important;
+  // }
+
+  // .MuiDialog-container {
+  //   height: 100% !important;
+  //   width: 1800px;
+  // }
+
+  // .css-jgls56-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+  //   border: 0px !important;
+  // }
+
+  // .MuiDialogContent-root {
+  //   padding-bottom: 6px !important;
+  //   padding-top: 1px !important;
+  // }
+
+  #content3 {
+    text-align: left;
+    margin-top: 23px
+    // padding-left: 300px;
+    // padding: 0px;
+    // width: 130px;
+    // margin-top: 15px;
+    // padding-top: 8px;
+  }
+
+  #content4 {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 8px;
+    width: 200px;
+    // padding-left: 100px;
+    // padding: 2px;
+    // width: 220px;
+  }
+
+  #content5 {
+    text-align: left;
+    padding-left: 100px;
+    padding: 2px;
+    width: 200px;
+    height: 40px;
+    // background: #fff;
+    float: right;
+    font-size: small;
+  }
+  .css-knqc4i-MuiDialogActions-root {
+    padding-right: 48px !important;
+  }
+  #cancel_btn {
+    width: 100px !important;
+    background: #fff !important;
+    color: black !important;
+    border-style: solid !important;
+    border-width: thin !important;
+    border-color: rgb(112, 110, 110) !important;
+  }
+
+  #extend_btn {
+    width: 100px !important;
+    font-size: medium !important;
+    background: #09a34e !important;
+    color: #fff !important;
+  }
+}

@@ -1,0 +1,60 @@
+
+.popup2 {
+    position: fixed; /* 设置固定位置 */
+    top: 50%; /* 居中显示 */
+    left: 50%;
+    transform: translate(-50%, -50%); /* 水平、垂直居中 */
+    width: 450px;
+    height: 370px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* 选项 */
+.option {
+    font-size:1px;
+}
+
+/* 头部 */
+.head_34_1 {
+    margin-bottom:0px;
+}
+
+/* 头部2 */
+.head_34_2 {
+    margin-top:5px;
+
+}
+
+.cancelButton {
+    margin-left:280px;
+}
+.limitsButton {
+    margin-left:10px;
+    background-color: #10aa50;
+    border: 0px;
+    color: #f1f5f3;
+}
+
+.mustLabel {
+    display: inline-block;
+    width: 35px;
+    height: 20px;
+    background-color: rgba(190, 192, 184, 0.897);
+    font-size: 12px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    }
+
+.mustLabel2 {
+    display: inline-block;
+    width: 35px;
+    height: 20px;
+    background-color: rgba(169, 209, 47, 0.897);
+    font-size: 12px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    }

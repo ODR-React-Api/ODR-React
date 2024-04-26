@@ -1,0 +1,48 @@
+.popup {
+    position: fixed; /* 设置固定位置 */
+    top: 50%; /* 居中显示 */
+    left: 50%;
+    transform: translate(-50%, -50%); /* 水平、垂直居中 */
+    width: 400px;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.head {
+    font-size:1.1em;
+    font-weight:600;
+}
+
+/* 取消 */
+.cancelButton1 {
+    margin-right:5px;
+}
+
+#cancel_btn {
+    width: 100px;
+    background: #fff;
+    color: black;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(112, 110, 110);
+    float: right;
+}
+
+#Argee_btn {
+    width: 100px;
+    font-size: medium;
+    background: #09a34e;
+    color: rgb(246, 239, 239);
+    float: right;
+}
+
+
+/* 提交 */
+.limitsButton1 {
+    margin-right:10px;
+    background-color: #10aa50;
+    border: 2px solid #10aa50;
+    color: #f1f5f3;
+}

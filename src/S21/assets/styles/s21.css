@@ -1,0 +1,135 @@
+.Confirmation {
+    text-align: center;
+  }
+
+/* 头部 */
+  .header_bottom {
+    background-color: #bdeafc;
+    margin-bottom:10px;
+    padding: 20px;
+  }
+
+/* 头部2 */
+.header_bottom2 {
+  text-align: left;
+  display: inline-block;
+}
+
+/* 头部3 */
+.header_bottom3 {
+  margin-top: -10px;
+  margin-right: -10px;
+  float: right;
+}
+
+/* 头部字体 */
+  .header_characters {
+    color: #2c8eb4;
+    font-weight:800;
+  }
+
+/* 头部字体 */
+.header_characters2 {
+  color: #2c8eb4;
+  font-weight:800;
+}
+
+/* 调停人模块 */
+.mediator {
+  background-color: #f8e2b3;
+  height: 200px;
+}
+
+/* 照片 */
+.photo {
+  margin-top:30px;
+  margin-left:40px;
+}
+
+/* 调停人模块 */
+.photo_name {
+  display: inline-block;
+  margin-top:10px;
+  margin-left:40px;
+}
+
+/* 調停人字体 */
+.characters {
+  font-weight:550;
+  font-size:1.6em;
+}
+
+/* 「調停人を変更」ボタン */
+.botton {
+  display: inline-block;
+}
+
+/* 「調停人への情報公開範囲を制限」ボタン */
+.botton2 {
+  margin-left:10px;
+}
+
+/* 調停人明细 */
+.detail {
+  margin-left:100px;
+}
+
+/* 自己紹介 */
+.personal_introduction1 {
+  font-size:20px;
+  margin-bottom:0px;
+  margin-top:29px;
+}
+
+/* 自己紹介2 */
+.personal_introduction2 {
+  font-size:15px;
+  margin-top:5px;
+}
+
+/* 調停人の経験1  */
+.experience1 {
+  font-size:15px;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+/* 調停人の経験2  */
+.experience2 {
+  font-size:15px;
+  margin-top:6px;
+  margin-bottom:0px;
+}
+
+/* 経歴書button  */
+.file {
+  border: 0px;
+  border-radius:50px;
+  background-color: #dfdeda;
+  height: 25px;
+  width: 230px;
+}
+
+/* 経歴書button2  */
+.pdf {
+  margin-top:2px;
+  height: 20px;
+  width: 20px;
+}
+
+/* PDF_button3  */
+.pdf2 {
+  color: red;
+}
+
+/* PDF_button3  */
+.pdf3 {
+  color: blue;
+}
+/* 
+#popups3 button:disabled{
+  background-color: grey;
+} */
+
+
+

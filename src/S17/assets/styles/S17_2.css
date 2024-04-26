@@ -1,0 +1,49 @@
+#S17_2 {
+  height: 453.5px;
+  width: 1066px;
+  padding-left: 33;
+}
+#inline {
+    margin-left: 50px;
+    margin-top: 2px;
+    height: 15px; 
+    display: inline-block
+  }
+  #mustInput {
+    font-size: 12px;
+    text-align: center;
+    background-color: #8dd10f;
+    width: 40px; 
+    height: 18px;
+    line-height: 18px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  #noMustInput {
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(199, 199, 199);
+    width: 40px; 
+    height: 18px;
+    line-height: 18px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+  }
+  #claimPayment,#counterclaimPayment {
+    height: 20px;
+  }
+  #line_S17_2 {
+    height: 1px;
+    background-color: rgb(117, 117, 117);
+    margin-bottom: 28px
+  }
+  .center-17 {
+    height: 453.5px;
+    width: 1066px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

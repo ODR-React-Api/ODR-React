@@ -1,0 +1,121 @@
+#s03 {
+  .top {
+    height: 150px;
+    background-color: #C8E6C9;
+    width: 100%;
+    display: flex;
+  }
+
+  .top-p {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Meiryo UI;
+    margin: 0;
+  }
+
+  .top-left {
+    padding: 20px 0px 0px 30px;
+    width: 80%;
+  }
+
+  .top-right {
+    width: 20%;
+  }
+
+  .search-box {
+    margin: 15px 0 0 0;
+    position: relative;
+  }
+
+  .search-box-top {
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: 300px;
+    height: 30px;
+  }
+
+  .search-img {
+    width: 15px;
+    height: 15px;
+    padding: 7px;
+    position: absolute;
+  }
+
+  .search-input {
+    position: absolute;
+    margin-left: 28px;
+    margin-top: 2px;
+    border: none;
+    width: 215px;
+    line-height: 25px;
+    font-size: 16px;
+  }
+
+  .search-input:focus {
+    outline: none;
+  }
+
+  .search-empty {
+    font-size: 18px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 0;
+    padding: 2px 5px 4px 5px;
+  }
+
+  .search-expand {
+    font-size: 12px;
+    position: absolute;
+    margin-left: 275px;
+    padding: 7px 5px 7px 5px;
+  }
+
+  .search-box-hide {
+    display: flex;
+  }
+
+  .search-box-top-hide-box {
+    background: #535050;
+    color: white;
+    font-size: 12px;
+    border-radius: 3px;
+    padding: 3px 5px 3px 5px;
+    margin-top: 5px;
+  }
+
+  .search-hide-search {
+    margin-left: -5px;
+  }
+
+  .search-hide-empty {
+    margin-left: 220px;
+  }
+
+  .search-hide-expand {
+    margin-left: 240px;
+  }
+
+  .search-hide {
+    display: none;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
+
+  .top-right-button {
+    margin-top: 50px;
+    border: none;
+    background-color: #147914;
+    height: 30px;
+    width: 180px;
+  }
+
+  .display-none {
+    display: none;
+  }
+
+  .MuiSvgIcon-fontSizeSmall {
+    width: 15px !important;
+  }
+}

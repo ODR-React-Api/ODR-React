@@ -1,0 +1,46 @@
+#S17_1 {
+    height: 500.5px;
+    width: 1066px;
+    padding-left: 33;
+  }
+  
+  #checkBoxDiv_S17 {
+    margin-left: 320px;
+    margin-top: -31px;
+  }
+  #inline_S17 {
+    margin-left: 200px;
+    margin-top: 10px;
+    display: inline-block
+  }
+  #mustInput {
+    font-size: 12px;
+    text-align: center;
+    background-color: #8dd10f;
+    width: 40px; 
+    height: 18px;
+    line-height: 18px;
+    display: inline-block
+  }
+  #line_S17 {
+    height: 1px;
+    background-color: rgb(117, 117, 117);
+    margin-bottom: 28px
+  }
+  #select1 {
+    margin-top: 7px;
+    margin-left: 430px;
+    text-align: center;
+    height: 26px;
+  }
+  #button2 {
+    margin-left: 10px;
+  }
+  
+.center-17 {
+    height: 453.5px;
+    width: 1066px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

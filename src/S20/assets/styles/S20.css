@@ -1,0 +1,11 @@
+#mustInput {
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(5, 248, 5);
+    width: 40px; 
+    height: 18px;
+    line-height: 18px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+  }

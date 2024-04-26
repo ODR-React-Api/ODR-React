@@ -1,0 +1,175 @@
+/* S04_申立て概要画面 */
+.S04 {
+    margin-left: 20px;
+    text-align: left;
+}
+
+#S04 {
+    /* 案件区域 */
+    .caseArea {
+        margin-top: 20px;
+        height: 50px;
+        width: 100%;
+        display: flex;
+    }
+    
+    /* 案件名Title区域 */
+    .caseTitleArea {
+        min-width: 190px;
+        margin-top: 11px;
+    }
+    
+    /* アクション内操作ボタン */
+    .caseSelectArea {
+        padding-left: 10px;
+    }
+    
+    .caseBtn {
+        height: 40px;
+        width: 150px;
+        border-color: silver !important;
+        font-size: 16px !important;
+    }
+    
+    .menuItemBtn {
+        height: 40px;
+    }
+    
+    /* tab区域 */
+    .tabsArea {
+        width: 1000px;
+        padding-top: 5px;
+    }
+    .MuiTab-textColorPrimary {
+        width: 200px;
+    }
+    .MuiTabPanel-root {
+        margin-left: 200px;
+    }
+    /* 画面ヘッダ部 */
+    /* 申立人 */
+    .mosDetailHeaderArea1{
+        margin: -24px -24px 0px -24px;
+        padding-left: 40px;
+        min-height: 150px;
+        background-color: #e8fad4;
+    }
+    /* 相手方 */
+    .mosDetailHeaderArea2{
+        margin: -24px -24px 0px -24px;
+        padding-left: 40px;
+        min-height: 150px;
+        background-color: #cfeefc;
+    }
+    /* 调停人 */
+    .mosDetailHeaderArea3{
+        margin: -24px -24px 0px -24px;
+        padding-left: 40px;
+        min-height: 150px;
+        background-color: #fce8ca;
+    }
+    
+    .stepIconsArea {
+        height: 40px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    /* メッセージ */
+    .textMessageArea{
+        padding-bottom: 10px;
+    }
+    /* 期日 */
+    .dueDateArea{
+        padding-bottom: 10px;
+    }
+    /* 左側ボタン */
+    .bntArea{
+        padding-bottom: 15px;
+    }
+    
+    /* 下書き中图标 */
+    .saveDiv-color{
+        margin-top: 27px;
+        margin-left: -60px;
+        z-index: 1;
+        position:absolute;
+    }
+    .MuiChip-label{
+        font-size: 10px;
+        color: white;
+    }
+
+    /* 主要内容区域 */
+    .mosDetailMainArea{
+        padding-left: 16px;
+    }
+    /* 各小节块区域 */
+    .mosContentDiv {
+        padding-top: 20px;
+    
+    }
+    /* 各小节标题样式 */
+    .titleContentDiv {
+        font-size: 16px;
+        padding-right: 5px;
+    }
+    
+    /* NEW图标 */
+    .newDiv-color {
+        background-color: yellowgreen;
+        /* border-radius: 6px; */
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        padding-inline: 8px;
+    }
+    
+    /* 各小节内容样式 */
+    .contentArea {
+        padding-top: 10px;
+    }
+    /* 行内容文字样式 */
+    .contentFont{
+        font-size: 14px;
+        padding-top: 5px;
+    }
+    /* 文字居中 */
+    .textCenter{
+        text-align: center; 
+    }
+    /* 文字居左 */
+    .textLeft{
+        text-align: left; 
+    }
+
+    /* 添付資料link */
+    .linkFileUrl{
+        text-decoration: none !important;
+    }
+}
+
+/* DialogBtn */
+.dialog-btn{
+    width: 140px;
+}
+
+/* 字体颜色blue */
+.textColorBlue{
+    color: blue;
+}
+
+/* チュートリアルポップアップ */
+.ShowTuritorList{
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+
+/* 字体颜色gray */
+.textColorGray{
+    color: gray;
+}
+
+/* 字体颜色red */
+.textColorRed{
+    color: red;
+}

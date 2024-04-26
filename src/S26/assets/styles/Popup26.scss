@@ -1,0 +1,48 @@
+#S26dialog {
+  .content0{
+    text-indent: 40px; 
+  }
+  .content1{
+    padding-left: 10px;  
+    justify-content: space-between;
+  }
+  .content2{
+    text-align: left;
+    padding-left: 70px;  
+    display: flex;
+    justify-content: space-between;
+  }
+  .content3{
+    text-align: left;
+    padding-left: 10px;  
+    display: flex;
+    justify-content: space-between;
+  }
+  .content4{
+    text-align: left;
+    padding-left: 68px;  
+    display: flex;
+    justify-content: space-between;
+  }
+  .timedisplay {
+    display: flex;
+    justify-content: space-between;
+  }
+  .buttondisplay {
+    position: fixed; /* 设置固定位置 */
+    justify-content: flex-end;
+    left: 35%;
+    top: 85%; /* 居中显示 */
+  }
+  .buttoncolor1 {
+    background-color: #fff; 
+    border: 1px solid #ccc;
+    color: black;
+  }
+  .buttoncolor2 {
+    background: #09a34e; 
+    border: 1px;
+    color: #fff;
+    margin-left: 10px;
+  }
+}

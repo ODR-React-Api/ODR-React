@@ -1,0 +1,95 @@
+
+  #button {
+    margin-left: 10px;
+  }
+  #checkBoxDiv {
+    margin-left: 230px;
+    margin-top: -31px;
+  }
+  #inline {
+    margin-left: 120px;
+    /* margin-top: 5px; */
+    display: inline-block
+  }
+  #line {
+    height: 1px;
+    background-color: rgb(117, 117, 117);
+    margin-top: 10px;
+  }
+
+  #button2 {
+    margin-left: 10px;
+  }
+  .lab{
+    background-color:rgba(188, 218, 81, 0.966);
+    font-size: smaller;
+  }
+  .la{
+    background-color:rgba(192, 185, 185, 0.966);
+    font-size: smaller;
+  }
+  .MuiFormControlLabel-label {
+    font-size: smaller;
+  }
+  #page1{
+    width: 800px;
+    height: 380px;
+    margin-left: 80px; 
+  }
+  #page2{
+    /* margin-top: 20px;
+    margin-left: 220px; */
+    width: 800px;
+    height: 380px;
+  }
+  .btn { 
+    width: 120px; height: 30px; 
+    position: absolute;
+   } 
+  #footBtn{
+    width: 1000px;
+   
+  }
+  .page2Left{
+    width: 300px;
+    height:35px;
+    text-align:right;
+    vertical-align:top;
+  }
+  .page2Right{
+    width: 250px;
+    height:35px;
+    text-align:left;
+    vertical-align:top;
+  }
+
+  table{
+    table-layout: fixed;
+word-break: break-all;
+  }
+  .css-4jnixx-MuiStack-root{
+    padding-top: 5px !important;
+  }
+  .css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input {
+    padding-top: 2px !important; 
+    padding-bottom: 2px !important; 
+  }
+  .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input{
+    padding-top: 10px !important; 
+    padding-bottom: 10px !important; 
+  }
+  .MuiPaper-root{
+    width: 1866 !important;
+    height: 755  !important;
+  }
+  .MuiDialogContent-root{
+    width: 1866 !important;
+    height: 755  !important;
+   
+  }
+  /* .css-ypiqx9-MuiDialogContent-root {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  } */

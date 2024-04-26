@@ -1,0 +1,90 @@
+#S19dialog {
+  .date1{
+    text-align: right;
+  }
+  .tittle1{
+    text-align: center;
+  }
+  .tittle2{
+    text-align: left;
+  }
+  .tittle3 {
+    margin-left: 90px;
+    margin-right: 20px;
+  }
+  .tittle4{
+    text-align: left;
+  }
+  .tittle5{
+    text-align: left;
+    color: grey;
+  }
+  .table1 {
+    text-align: right;
+  }
+  .table2 {
+    text-align: left;
+  }
+  .table3 {
+    margin-left: 90px;
+    margin-right: 20px;
+  }
+  .table4 {
+    margin-left: 130px;
+  }
+  .table11{
+    margin-left: 165px;
+  }
+  .d1{
+    width: 1500px;
+  }
+  #custom-dialogS19 {
+    transform: translate(-50%, -50%); /* 水平、垂直居中 */
+    width: 1500px;
+    height: 1000px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  #content1{
+    text-align: left;
+    padding-left: 100px;  
+    padding: 9px;
+    width: 200px;
+    justify-content: space-between;
+  }
+  #content2{
+    text-align: -webkit-left;
+    padding-left: 300px; 
+    padding-left: 0px;
+    padding-top: 10px;
+    width: 200px;
+    justify-content: space-between;
+  }
+  #content3{
+    text-align: left;
+    padding-left: 120px;  
+    padding: 2px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #content4{
+    text-align: left;
+    padding-left: 300px;  
+    padding: 2px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .timedisplay {
+    display: flex;
+    justify-content: space-between;
+  }
+  .buttondisplay {
+    position: fixed; /* 设置固定位置 */
+    justify-content: flex-end;
+    left: 35%;
+    top: 85%; 
+  }
+}

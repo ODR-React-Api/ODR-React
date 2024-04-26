@@ -1,0 +1,11 @@
+#popup {
+    position: fixed; /* 设置固定位置 */
+    top: 90%; /* 居中显示 */
+    left: 10%;
+    /* transform: translate(20%, 70%); 水平、垂直居中 */
+    height: 470px;
+    width: 650px;
+    border: 1px solid #000000;
+    padding: 20px;
+    background: white
+  }
